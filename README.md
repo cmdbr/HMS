@@ -1,6 +1,6 @@
 # HMS
 HMSP programlarını indirmek için
-[HMSP.zip'i indir Windows](HMSP.zip)
+[HMSP.zip Windows](HMSP.zip)
 ---
 KatFO: Basit yayın ve animasyon programı
 Net-IDE-V0,02(3) .NET ile C# yazmayı sağlayan bir araç
